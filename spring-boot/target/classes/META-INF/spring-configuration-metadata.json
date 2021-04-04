@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.laptrinhjavaweb.config.FileStorageProperties",
+      "name": "file",
+      "type": "com.laptrinhjavaweb.config.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.laptrinhjavaweb.config.FileStorageProperties",
+      "name": "file.upload-dir",
+      "description": "A description for 'file.upload-dir'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "multipart.maxFileSize",
+      "description": "A description for 'multipart.maxFileSize'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "multipart.maxRequestSize",
+      "description": "A description for 'multipart.maxRequestSize'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.servlet.multipart.enabled",
+      "description": "A description for 'spring.servlet.multipart.enabled'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.servlet.multipart.file-size-threshold",
+      "description": "A description for 'spring.servlet.multipart.file-size-threshold'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.servlet.multipart.max-file-size",
+      "description": "A description for 'spring.servlet.multipart.max-file-size'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.servlet.multipart.max-request-size",
+      "description": "A description for 'spring.servlet.multipart.max-request-size'",
+      "type": "java.lang.String"
+    }
+  ]
+}
